@@ -1,0 +1,2 @@
+rootProject.name = 'preTask'
+include ':core', ':notification', ':batch'
